@@ -17,7 +17,7 @@ Ens posem les ulleres de **Lev Manovich** i viatgem fins a l'actualitat per desc
 **La hibridació** és un procés de remediació, de fusió dels medis, més enllà de la multimèdia. Per aquest motiu s'ha escollit  **Twitch** i **Netflix**, dos casos d'hibridació recents on podem veure la combinació de tècniques tradicionals amb altres més modernes i podem viure una experiència unificada.
 
 
-## <img src="./whatsappicon.png" width="50" height="50"> Cas 1: Re-descobrint la hibridació: Twitch
+## <img src="./twitch.png" width="30" height="30"> Cas 1: Re-descobrint la hibridació: Twitch
 
 **Twitch**, va nèixer al 2011 principalment especialitzat en streaming de videojocs. La comunitat va creixer tant rapid que va captar molt l'atenció. Al 2014 va ser comprat per Amazon i amb els temps s'ha anat diversificant amb el contingut, com música, xerrades... . És la plataforma de "live streaming" més gran del mon. Reb més de 31 millons de visitants al dia i té una audiència de 2,5 millons. 
 
