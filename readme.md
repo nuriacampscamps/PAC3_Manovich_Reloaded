@@ -21,17 +21,27 @@ Ens posem les ulleres de **Lev Manovich** i viatgem fins a l'actualitat per desc
 
 **Twitch**, va nèixer al 2011 principalment especialitzat en streaming de videojocs. La comunitat va creixer tant rapid que va captar molt l'atenció. Al 2014 va ser comprat per Amazon i amb els temps s'ha anat diversificant amb el contingut, com música, xerrades... . És la plataforma de "live streaming" més gran del mon. Reb més de 31 millons de visitants al dia i té una audiència de 2,5 millons. 
 
-Aquesta plataforma és una remediació de 
+Aquesta plataforma és una remediació en l'àmbit d'entreteniment i de l'experiència multimèdia, ja que podem veure que combina diferents mètodes en la forma d'interacció, continguts digitals... Veiem que es una fusió de música, video, veu, text tots ells existents anteriorment però d'una forma més modernitzada i hibrida. L'experiènca de l'usuari era fragmentada i amb aquest tipus de plataforma podem veure tots els elements en conjunt. Un vídeo a twitch amb subtituls, textes, veu, retrensmissió, imatges sense rompre el fil. A través de la pantalla veiem persones parlant en directe i explicant-nos continguts amb retransmissió mentres podem parlar a través del chat.
 
-Una web es una remediación de un periódico, por maquetación, por formato, por disposición de contenidos; un video digital una re-mediación del cine, a la vez que éste lo es del teatro… Los primeros entornos multimedia son fusiones de música, vídeo y texto, todos ellos medios existentes anteriormente. Este contexto de remediación constante que se da en la tecnología, no sólo es una forma útil de avanzar en el progreso, sino que es una condición necesaria para que podamos interactuar con los nuevos medios: los nuevos dispositivos digitales, los nuevos paneles de control,… Es lo que hace que los podamos usar con una curva de aprendizaje normal.
+![Cultura Digital](https://cdn.m7g.twitch.tv/eae64763cab2144a06b0/assets/uploads/fada789fc52a4606cd8b729dba50aa41.png?w=898&h=599&fm=jpg&auto=format) 
 
 
 ## <img src="./Netflix.png" width="30" height="30"> Cas 2: Re-descobrint la hibridació: Facebook
 
 **Netflix**, és un servei de streaming que funciona mitjançant la subscripció i permet als seus usuaris veure series i pel·licules a treavés de qualsevol dispositiu connectat a internet. Depenent de quin es el pla contractat, també pots descarregar sèries i pel·licules a cualsevol dispositiu IOS, Android o Windows 10 i veureu sense necessitat de connexió a internet.
 
+Aquesta plataforma és una re-mediació del cinema, ja que podem veure pel·licules i sèries sense mourens de casa. Abans escollies una pel·licula i anaves al cinema a veure la que havies escollit i tornaves a casa, ara et fas una subscripció i pagues una tarifa plana la qual pots veure el que vulguis i la quantitat que vulguis el mateix dia.
+
+![Cultura Digital](https://uh.gsstatic.es/sfAttachPlugin/1032151.jpg) 
+
 ## Resum
 
 ## Referències i Bibliografia
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+Algunes de les webs que he utilitzat per crear tot el contingut han estat:
+
+- [Twitch, (2011): "Twitch".](https://www.netflix.com/es/)
+- [Netflix, (1997): "Netflix".](https://www.netflix.com/es/)
+- [Wikipedia, (2021): "Lev Manovich".](https://es.wikipedia.org/wiki/Lev_Manovich)
+- [UOC, (): "Remediación, multimedia e hibridación de los medios".](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+- [Wikipedia, (2022): "Hibridación de medios".](https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios)
