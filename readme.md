@@ -26,7 +26,7 @@ Aquesta plataforma és una remediació de
 Una web es una remediación de un periódico, por maquetación, por formato, por disposición de contenidos; un video digital una re-mediación del cine, a la vez que éste lo es del teatro… Los primeros entornos multimedia son fusiones de música, vídeo y texto, todos ellos medios existentes anteriormente. Este contexto de remediación constante que se da en la tecnología, no sólo es una forma útil de avanzar en el progreso, sino que es una condición necesaria para que podamos interactuar con los nuevos medios: los nuevos dispositivos digitales, los nuevos paneles de control,… Es lo que hace que los podamos usar con una curva de aprendizaje normal.
 
 
-## Cas 2: Re-descobrint la hibridació: Facebook
+## <img src="./Netflix.png" width="30" height="30"> Cas 2: Re-descobrint la hibridació: Facebook
 
 **Netflix**, és un servei de streaming que funciona mitjançant la subscripció i permet als seus usuaris veure series i pel·licules a treavés de qualsevol dispositiu connectat a internet. Depenent de quin es el pla contractat, també pots descarregar sèries i pel·licules a cualsevol dispositiu IOS, Android o Windows 10 i veureu sense necessitat de connexió a internet.
 
