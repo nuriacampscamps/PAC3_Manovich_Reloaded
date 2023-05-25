@@ -46,33 +46,33 @@ En resum, crec que el **Twitch** és una molt bon exemple d'hibridació per la i
 ![Cultura Digital](https://cdn.m7g.twitch.tv/eae64763cab2144a06b0/assets/uploads/fada789fc52a4606cd8b729dba50aa41.png?w=898&h=599&fm=jpg&auto=format) 
 
 
-## <img src="./Netflix.png" width="30" height="30"> Cas 2: Re-descobrint la hibridació: Netflix
+## <img src="./Netflix.png" width="30" height="30"> Cas 2: Netflix
 
-Recordeu com era llogar una pel·lícula? Anys enrere havies d'anar al cinema o al videoclub més proper a casa teva per llogar una pel·lícula en format VHS i més endavant amb DVD o Blue-Ray.
+Recordeu com era llogar una pel·lícula en aquells temps? Anys enrere havies d'anar al **cinema** o al **videoclub** més proper a casa teva per llogar una pel·lícula en format VHS i més endavant amb DVD o Blue-Ray.
 
-Podem considerar que **Netflix** és un exemple d'hibridació en l'àmbit de les plataformes de visualització de cinema i audiovisuals. Avui en dia hi ha un llarg catàleg de diferents aplicacions semblants on combinen elements multimèdia i una d'elles és aquesta. És un servei de transmissió que permet veure una gran quantitat de sèries, documentals i pel·lícules a qualsevol dispositiu amb accés a internet mitjançant el pagament d'una tarifa fixa mensual.
+Podem considerar que la plataforma **Netflix** és un exemple d'**hibridació** en l'àmbit de les plataformes de visualització de cinema i audiovisuals. Avui en dia hi ha un llarg catàleg de diferents aplicacions semblants i amb la mateixa funcionalitat on combinen elements multimèdia i visuals i una d'elles és de la qual estem parlant. És un servei de **transmissió** digital que permet veure una gran quantitat de sèries, documentals i pel·lícules a qualsevol dispositiu amb accés a internet mitjançant el pagament d'una tarifa fixa mensual.
 
-La plataforma ofereix diferents plans per escollir, determinant la quantitat de dispositius en els quals es pot veure contingut al mateix temps. Com més dispositius al mateix temps el preu és més car.
+La plataforma ofereix diferents **plans** per escollir, determinant la quantitat de dispositius en els quals es pot veure contingut al mateix temps. Com més dispositius al mateix temps el preu és més car.
 
-L'aplicació permet descarregar un contingut, sigui una pel·lícula o una temporada sencera d'una sèrie a qualsevol dispositiu digital. Podent veure durant un temps el contingut amb una data límit i sense tenir connexió a internet.
+L'aplicació permet **descarregar** un contingut, sigui una pel·lícula o una temporada sencera d'una sèrie a qualsevol dispositiu digital. Podent veure durant un temps el contingut amb una data límit i sense tenir connexió a internet.
 
 ![Cultura Digital](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/netflix-gaming-2825567.jpg) 
 
-Permet veure diferents categories a la mateixa pàgina principal d'inici, dominar el cercador per trobar els continguts més interessants, mirar continguts populars que mira més la gent, ofereix diverses puntuacions i estrelles de diferents pàgines, crear llistes de continguts, compartir comptes amb altres persones, canviar el nom i l'avatar del perfil amb una altra imatge preestablerta, realitzar reproducció aleatòria, així com ajustaments dins de la reproducció com configurar l'idioma i els subtítols.
+Permet veure diferents **categories** a la mateixa pàgina principal d'inici, dominar el **cercador** per trobar els continguts més interessants, mirar continguts populars que mira més la gent, ofereix diverses **puntuacions i estrelles** de diferents pàgines, crear **llistes** de continguts, **compartir** comptes amb altres persones, canviar el nom i l'avatar del perfil amb una altra imatge preestablerta, realitzar **reproducció aleatòria**, així com **ajustaments** dins de la reproducció com configurar l'idioma i els subtítols. Aquesta hibridació ha portat a la plataforma rebre reconeixement en festivals de cine i televisió, i ha impulsat la popularitat de contingut digital.
 
-Una eina que abans no existia, ja que havies d'anar al cinema a veure contingut audiovisual. Ara s'ha convertit en un món híbrid amb múltiples eines, medis i tecnologies sent la predecessora directa dels videoclubs. Avui en dia, les noves generacions neixen en un món canviant on predomina la immediatesa, i Netflix és una gran base d'aquest món, sent una de les primeres plataformes que canvia la forma de consumir el material visual.
+Una eina que abans no existia, ja que havies d'anar al cinema a veure contingut audiovisual. Ara s'ha convertit en un **món híbrid** amb múltiples eines, medis i tecnologies sent la predecessora directa dels **videoclubs**. Avui en dia, les noves generacions neixen en un món canviant on predomina la **immediatesa**, i Netflix és una gran base d'aquest món, sent una de les primeres plataformes que canvia la forma de consumir el material visual.
 
-Aquesta plataforma és una hibridació del cinema, ja que podem veure pel·lícules i sèries sense moure'ns de casa. Abans, escollies bé el que mirar, pensant bé, tenint opcions escasses, ara no sabem que escollir, perquè abans teníem tan poques opcions a una cartellera de pel·lícules i ara en contra a tenir-ho tot no és fàcil. Aquest catàleg unit a què hi ha una sola subscripció de preu reduït que ens dóna accés a aquest contingut, va ser el detonant a aquest èxit de la hibridació de plataformes i medis com el setè art. A part de ser una plataforma híbrida ha fet hibridar el servei de moltes altres i les ha fet innovar com a servei de contingut visual.
+Aquesta plataforma és una **hibridació del cinema**, ja que podem veure i escollir pel·lícules i sèries sense moure'ns de casa. Abans, escollies bé el que mirar, pensant bé, tenint opcions escasses, ara no sabem que escollir. Aquest catàleg unit a què hi ha una sola subscripció de preu reduït que ens dóna accés a aquest contingut, va ser el detonant a aquest èxit de la **hibridació de plataformes** i medis com el setè art. A part de ser una plataforma híbrida ha fet hibridar el servei de moltes altres i les ha fet innovar com a servei de contingut visual.
 
-En resum, crec que el Netflix és una molt bon exemple d'hibridació per la interacció dels elements multimèdia l'hora i gràcies als dispositius electrònics aquesta plataforma ha pogut créixer molt, eliminant totalment les tendes de videoclubs existents.
+En resum, crec que el **Netflix** és una molt bon exemple d'hibridació per la interacció dels elements multimèdia l'hora i gràcies als dispositius electrònics aquesta plataforma ha pogut créixer molt, eliminant totalment les tendes de videoclubs existents.
 
 ![Cultura Digital](https://uh.gsstatic.es/sfAttachPlugin/1032151.jpg) 
 
 ## Resum
 
-En resum, tant twitch com netflix, són exemples que es relacionen perfectament amb la hibridació ja que durant el temps s'han anat fusionant, combinant i millorant les tècniques tradicionals oferint noves tècniques actuals i nous recursos ajudant a comprendre la seva evolució i origen.
+En resum, tant twitch com netflix, són exemples que es relacionen perfectament amb la hibridació, ja que durant el temps s'han anat fusionant, combinant i millorant les tècniques tradicionals oferint noves tècniques actuals i nous recursos ajudant a comprendre la seva evolució i origen.
 
-Actualment, si Lev Manovich hagués d'escriure el llibre que va realizar, probablament jo faria tot digitalment per plataformes digitals i amb dispositius electrònics.
+Actualment, si Lev Manovich hagués d'escriure el llibre que va realitzar, probablement jo faria tot digitalment per plataformes digitals i amb dispositius electrònics.
 
 ## Referències i Bibliografia
 
